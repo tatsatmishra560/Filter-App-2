@@ -1,0 +1,17 @@
+h3 {
+    font-size: 25px !important;
+}
+
+.btn-success:hover {
+    background-color: red;
+}
+
+.btn-info:hover {
+    background-color: black;
+}
+
+canvas {
+    background-color: white;
+    box-shadow: 5px 5px 5px yellowgreen;
+
+}
